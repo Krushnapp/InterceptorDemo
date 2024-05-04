@@ -9,7 +9,8 @@ public class InterceptorDemoApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(InterceptorDemoApplication.class, args);
-		System.out.println("Good to Go");
+		System.out.println("Good to Goo");
+
 	}
 
 }
